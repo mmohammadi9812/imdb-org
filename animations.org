@@ -1,0 +1,560 @@
+#+TITLE: Top Animations
+#+AUTHOR: Mohammd Mohammdi
+#+STARTUP: inlineimages
+* [ ] 1. [[/title/tt0245429/?ref_=ttls_li_tt][Spirited Away]] 8.6	:Animation:Adventure:Family:
+	(2001)	125 min	96        
+	During her family's move to the suburbs, a sullen 10-year-old girl wanders
+	into a world ruled by gods, witches, and spirits, and where humans are changed
+	into beasts.
+	[[file:./animations/Spirited Away.jpg]]
+* [ ] 2. [[/title/tt2948356/?ref_=ttls_li_tt][Zootopia]] 8	:Animation:Adventure:Comedy:
+	(2016)	108 min	78        
+	In a city of anthropomorphic animals, a rookie bunny cop and a cynical con
+	artist fox must work together to uncover a conspiracy.
+	[[file:./animations/Zootopia.jpg]]
+* [ ] 3. [[/title/tt2096673/?ref_=ttls_li_tt][Inside Out]] 8.2	:Animation:Adventure:Comedy:
+	(I) (2015)	95 min	94        
+	After young Riley is uprooted from her Midwest life and moved to San
+	Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on
+	how best to navigate a new city, house, and school.
+	[[file:./animations/Inside Out.jpg]]
+* [ ] 4. [[/title/tt0910970/?ref_=ttls_li_tt][WALL·E]] 8.4	:Animation:Adventure:Family:
+	(2008)	98 min	95        
+	In the distant future, a small waste-collecting robot inadvertently embarks
+	on a space journey that will ultimately decide the fate of mankind.
+	[[file:./animations/WALL·E.jpg]]
+* [ ] 5. [[/title/tt0435761/?ref_=ttls_li_tt][Toy Story 3]] 8.3	:Animation:Adventure:Comedy:
+	(2010)	103 min	92        
+	The toys are mistakenly delivered to a day-care center instead of the attic
+	right before Andy leaves for college, and it's up to Woody to convince the other
+	toys that they weren't abandoned and to return home.
+	[[file:./animations/Toy Story 3.jpg]]
+* [ ] 6. [[/title/tt1979376/?ref_=ttls_li_tt][Toy Story 4]] 7.8	:Animation:Adventure:Comedy:
+	(2019)	100 min	84        
+	When a new toy called "Forky" joins Woody and the gang, a road trip
+	alongside old and new friends reveals how big the world can be for a toy.
+	[[file:./animations/Toy Story 4.jpg]]
+* [ ] 7. [[/title/tt1049413/?ref_=ttls_li_tt][Up]] 8.2	:Animation:Adventure:Comedy:
+	(2009)	96 min	88        
+	78-year-old Carl Fredricksen travels to Paradise Falls in his house
+	equipped with balloons, inadvertently taking a young stowaway.
+	[[file:./animations/Up.jpg]]
+* [ ] 8. [[/title/tt2380307/?ref_=ttls_li_tt][Coco]] 8.4	:Animation:Adventure:Family:
+	(I) (2017)	105 min	81        
+	Aspiring musician Miguel, confronted with his family's ancestral ban on
+	music, enters the Land of the Dead to find his great-great-grandfather, a
+	legendary singer.
+	[[file:./animations/Coco.jpg]]
+* [ ] 9. [[/title/tt2262227/?ref_=ttls_li_tt][The Book of Life]] 7.3	:Animation:Adventure:Comedy:
+	(2014)	95 min	67        
+	Manolo, a young man who is torn between fulfilling the expectations of his
+	family and following his heart, embarks on an adventure that spans three
+	fantastic worlds where he must face his greatest fears.
+	[[file:./animations/The Book of Life.jpg]]
+* [ ] 10. [[/title/tt0317705/?ref_=ttls_li_tt][The Incredibles]] 8	:Animation:Action:Adventure:
+	(2004)	115 min	90        
+	A family of undercover superheroes, while trying to live the quiet suburban
+	life, are forced into action to save the world.
+	[[file:./animations/The Incredibles.jpg]]
+* [ ] 11. [[/title/tt3606756/?ref_=ttls_li_tt][Incredibles 2]] 7.6	:Animation:Action:Adventure:
+	(2018)	118 min	80        
+	The Incredibles hero family takes on a new mission, which involves a change
+	in family roles: Bob Parr (Mr Incredible) must manage the house while his wife
+	Helen (Elastigirl) goes out to save the world.
+	[[file:./animations/Incredibles 2.jpg]]
+* [ ] 12. [[/title/tt4633694/?ref_=ttls_li_tt][Spider-Man: Into the Spider-Verse]] 8.4	:Animation:Action:Adventure:
+	(2018)	117 min	87        
+	Teen Miles Morales becomes Spider-Man of his reality, crossing his path
+	with five counterparts from other dimensions to stop a threat for all realities.
+	[[file:./animations/Spider-Man: Into the Spider-Verse.jpg]]
+* [ ] 13. [[/title/tt0382932/?ref_=ttls_li_tt][Ratatouille]] 8	:Animation:Adventure:Comedy:
+	(2007)	111 min	96        
+	A rat who can cook makes an unusual alliance with a young kitchen worker at
+	a famous restaurant.
+	[[file:./animations/Ratatouille.jpg]]
+* [ ] 14. [[/title/tt3521164/?ref_=ttls_li_tt][Moana]] 7.6	:Animation:Adventure:Comedy:
+	(I) (2016)	107 min	81        
+	In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui
+	reaches Moana's island, she answers the Ocean's call to seek out the Demigod to
+	set things right.
+	[[file:./animations/Moana.jpg]]
+* [ ] 15. [[/title/tt0347149/?ref_=ttls_li_tt][Howl's Moving Castle]] 8.2	:Animation:Adventure:Family:
+	(2004)	119 min	80        
+	When an unconfident young woman is cursed with an old body by a spiteful
+	witch, her only chance of breaking the spell lies with a self-indulgent yet
+	insecure young wizard and his companions in his legged, walking castle.
+	[[file:./animations/Howl's Moving Castle.jpg]]
+* [ ] 16. [[/title/tt7146812/?ref_=ttls_li_tt][Onward]] 7.7	:Animation:Adventure:Comedy:
+	(I) (2020)	102 min	61        
+	Set in a suburban fantasy world, two teenage elf brothers embark on a quest
+	to discover if there is still magic out there.
+	[[file:./animations/Onward.jpg]]
+* [ ] 17. [[/title/tt5104604/?ref_=ttls_li_tt][Isle of Dogs]] 7.9	:Animation:Adventure:Comedy:
+	(2018)	101 min	82        
+	Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost
+	dog.
+	[[file:./animations/Isle of Dogs.jpg]]
+* [ ] 18. [[/title/tt0432283/?ref_=ttls_li_tt][Fantastic Mr. Fox]] 7.8	:Animation:Adventure:Comedy:
+	(2009)	87 min	83        
+	An urbane fox cannot resist returning to his farm raiding ways and then
+	must help his community survive the farmers' retaliation.
+	[[file:./animations/Fantastic Mr. Fox.jpg]]
+* [ ] 19. [[/title/tt2401878/?ref_=ttls_li_tt][Anomalisa]] 7.3	:Animation:Comedy:Drama:
+	(2015)	90 min	88        
+	A man crippled by the mundanity of his life experiences something out of
+	the ordinary.
+	[[file:./animations/Anomalisa.jpg]]
+* [ ] 20. [[/title/tt0978762/?ref_=ttls_li_tt][Mary and Max]] 8.1	:Animation:Comedy:Drama:
+	(2009)	92 min	N/A
+	A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-
+	year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year
+	old, severely obese man living in New York.
+	[[file:./animations/Mary and Max.jpg]]
+* [ ] 21. [[/title/tt9806192/?ref_=ttls_li_tt][I Lost My Body]] 7.6	:Animation:Drama:Fantasy:
+	(2019)	81 min	80        
+	A story of Naoufel, a young man who is in love with Gabrielle. In another
+	part of town, a severed hand escapes from a dissection lab, determined to find
+	its body again.
+	[[file:./animations/I Lost My Body.jpg]]
+* [ ] 22. [[/title/tt0347246/?ref_=ttls_li_tt][Ghost in the Shell 2: Innocence]] 7.5	:Animation:Drama:Sci-Fi:
+	(2004)	100 min	66        
+	In the year 2032, Batô, a cyborg detective for the anti-terrorist unit
+	Public Security Section 9, investigates the case of a female robot--one created
+	solely for sexual pleasure--who slaughtered her owner.
+	[[file:./animations/Ghost in the Shell 2: Innocence.jpg]]
+* [ ] 23. [[/title/tt1865505/?ref_=ttls_li_tt][Song of the Sea]] 8.1	:Animation:Adventure:Drama:
+	(2014)	93 min	85        
+	Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn
+	into a seal, go on an adventure to free the fairies and save the spirit world.
+	[[file:./animations/Song of the Sea.jpg]]
+* [ ] 24. [[/title/tt4729430/?ref_=ttls_li_tt][Klaus]] 8.2	:Animation:Adventure:Comedy:
+	(2019)	96 min	65        
+	A simple act of kindness always sparks another, even in a frozen, faraway
+	place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their
+	gifts melt an age-old feud and deliver a sleigh full of holiday traditions.
+	[[file:./animations/Klaus.jpg]]
+* [ ] 25. [[/title/tt0388473/?ref_=ttls_li_tt][Tokyo Godfathers]] 7.8	:Animation:Adventure:Comedy:
+	(2003)	92 min	73        
+	On Christmas Eve, three homeless people living on the streets of Tokyo find
+	a newborn baby among the trash and set out to find its parents.
+	[[file:./animations/Tokyo Godfathers.jpg]]
+* [ ] 26. [[/title/tt1725969/?ref_=ttls_li_tt][Ethel & Ernest]] 7.8	:Animation:Drama:History:
+	(2016)	94 min	72        
+	The life and times of the parents of the hailed British graphic novelist,
+	Raymond Briggs.
+	[[file:./animations/Ethel & Ernest.jpg]]
+* [ ] 27. [[/title/tt2396224/?ref_=ttls_li_tt][It's Such a Beautiful Day]] 8.3	:Animation:Comedy:Drama:
+	(2012)	62 min	90        
+	Bill struggles to put together his shattered psyche, in this new feature
+	film version of Don Hertzfeldt's animated short film trilogy.
+	[[file:./animations/It's Such a Beautiful Day.jpg]]
+* [ ] 28. [[/title/tt0266543/?ref_=ttls_li_tt][Finding Nemo]] 8.1	:Animation:Adventure:Comedy:
+	(2003)	100 min	90        
+	After his son is captured in the Great Barrier Reef and taken to Sydney, a
+	timid clownfish sets out on a journey to bring him home.
+	[[file:./animations/Finding Nemo.jpg]]
+* [ ] 29. [[/title/tt2277860/?ref_=ttls_li_tt][Finding Dory]] 7.3	:Animation:Adventure:Comedy:
+	(2016)	97 min	77        
+	Friendly but forgetful blue tang Dory begins a search for her long-lost
+	parents, and everyone learns a few things about the real meaning of family along
+	the way.
+	[[file:./animations/Finding Dory.jpg]]
+* [ ] 30. [[/title/tt4302938/?ref_=ttls_li_tt][Kubo and the Two Strings]] 7.8	:Animation:Action:Adventure:
+	(2016)	101 min	84        
+	A young boy named Kubo must locate a magical suit of armour worn by his
+	late father in order to defeat a vengeful spirit from the past.
+	[[file:./animations/Kubo and the Two Strings.jpg]]
+* [ ] 31. [[/title/tt0892769/?ref_=ttls_li_tt][How to Train Your Dragon]] 8.1	:Animation:Action:Adventure:
+	(2010)	98 min	75        
+	A hapless young Viking who aspires to hunt dragons becomes the unlikely
+	friend of a young dragon himself, and learns there may be more to the creatures
+	than he assumed.
+	[[file:./animations/How to Train Your Dragon.jpg]]
+* [ ] 32. [[/title/tt1646971/?ref_=ttls_li_tt][How to Train Your Dragon 2]] 7.8	:Animation:Action:Adventure:
+	(2014)	102 min	76        
+	When Hiccup and Toothless discover an ice cave that is home to hundreds of
+	new wild dragons and the mysterious Dragon Rider, the two friends find
+	themselves at the center of a battle to protect the peace.
+	[[file:./animations/How to Train Your Dragon 2.jpg]]
+* [ ] 33. [[/title/tt2386490/?ref_=ttls_li_tt][How to Train Your Dragon: The Hidden World]] 7.5	:Animation:Action:Adventure:
+	(2019)	104 min	71        
+	When Hiccup discovers Toothless isn't the only Night Fury, he must seek
+	"The Hidden World", a secret Dragon Utopia before a hired tyrant named Grimmel
+	finds it first.
+	[[file:./animations/How to Train Your Dragon: The Hidden World.jpg]]
+* [ ] 34. [[/title/tt2140203/?ref_=ttls_li_tt][Wolf Children]] 8.1	:Animation:Drama:Family:
+	(2012)	117 min	71        
+	After her werewolf lover unexpectedly dies in an accident while hunting for
+	food for their children, a young woman must find ways to raise the werewolf son
+	and daughter that she had with him while keeping their trait hidden from
+	society.
+	[[file:./animations/Wolf Children.jpg]]
+* [ ] 35. [[/title/tt2576852/?ref_=ttls_li_tt][The Tale of The Princess Kaguya]] 8	:Animation:Adventure:Drama:
+	(2013)	137 min	89        
+	Found inside a shining stalk of bamboo by an old bamboo cutter and his
+	wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious
+	young princess enthralls all who encounter her, but ultimately she must confront
+	her fate, the punishment for her crime.
+	[[file:./animations/The Tale of The Princess Kaguya.jpg]]
+* [ ] 36. [[/title/tt0198781/?ref_=ttls_li_tt][Monsters, Inc.]] 8	:Animation:Adventure:Comedy:
+	(2001)	92 min	79        
+	In order to power the city, monsters have to scare children so that they
+	scream. However, the children are toxic to the monsters, and after a child gets
+	through, 2 monsters realize things may not be what they think.
+	[[file:./animations/Monsters, Inc..jpg]]
+* [ ] 37. [[/title/tt1453405/?ref_=ttls_li_tt][Monsters University]] 7.3	:Animation:Adventure:Comedy:
+	(2013)	104 min	65        
+	A look at the relationship between Mike Wazowski (Billy Crystal) and James
+	P. "Sully" Sullivan (John Goodman) during their days at Monsters University,
+	when they weren't necessarily the best of friends.
+	[[file:./animations/Monsters University.jpg]]
+* [ ] 38. [[/title/tt0385880/?ref_=ttls_li_tt][Monster House]] 6.6	:Animation:Adventure:Comedy:
+	(2006)	91 min	68        
+	Three teens discover that their neighbor's house is really a living,
+	breathing, scary monster.
+	[[file:./animations/Monster House.jpg]]
+* [ ] 39. [[/title/tt0808417/?ref_=ttls_li_tt][Persepolis]] 8	:Animation:Biography:Drama:
+	(2007)	96 min	90        
+	A precocious and outspoken Iranian girl grows up during the Islamic
+	Revolution.
+	[[file:./animations/Persepolis.jpg]]
+* [ ] 40. [[/title/tt1185616/?ref_=ttls_li_tt][Waltz with Bashir]] 8	:Documentary:Animation:Biography:
+	(2008)	90 min	91        
+	An Israeli film director interviews fellow veterans of the 1982 invasion of
+	Lebanon to reconstruct his own memories of his term of service in that conflict.
+	[[file:./animations/Waltz with Bashir.jpg]]
+* [ ] 41. [[/title/tt2967856/?ref_=ttls_li_tt][Another Day of Life]] 7.3	:Animation:Biography:
+	(2018)	85 min	78        
+	A gripping story of a three-month-long journey that renowned Polish
+	reporter Ryszard Kapuscinski took across Angola ravaged by a war in which the
+	front lines shifted like a kaleidoscope from one day to the next.
+	[[file:./animations/Another Day of Life.jpg]]
+* [ ] 42. [[/title/tt6241872/?ref_=ttls_li_tt][Ruben Brandt, Collector]] 7.5	:Animation:Action:Crime:
+	(2018)	96 min	75        
+	Four expert thieves attempt to steal every famous artwork that is haunting
+	their mutual psychotherapist. A detective attempts to find out who the
+	"Collector" is.
+	[[file:./animations/Ruben Brandt, Collector.jpg]]
+* [ ] 43. [[/title/tt7336470/?ref_=ttls_li_tt][Buñuel in the Labyrinth of the Turtles]] 7.1	:Animation:Biography:Drama:
+	(2018)	80 min	75        
+	The true story of how Luis Buñuel made his third movie.
+	[[file:./animations/Buñuel in the Labyrinth of the Turtles.jpg]]
+* [ ] 44. [[/title/tt0291350/?ref_=ttls_li_tt][Millennium Actress]] 7.9	:Animation:Drama:Fantasy:
+	(2001)	87 min	70        
+	A TV interviewer and his cameraman meet a former actress and travel through
+	her memories and career.
+	[[file:./animations/Millennium Actress.jpg]]
+* [ ] 45. [[/title/tt2245084/?ref_=ttls_li_tt][Big Hero 6]] 7.8	:Animation:Action:Adventure:
+	(2014)	102 min	74        
+	The special bond that develops between plus-sized inflatable robot Baymax,
+	and prodigy Hiro Hamada, who team up with a group of friends to form a band of
+	high-tech heroes.
+	[[file:./animations/Big Hero 6.jpg]]
+* [ ] 46. [[/title/tt0126029/?ref_=ttls_li_tt][Shrek]] 7.8	:Animation:Adventure:Comedy:
+	(2001)	90 min	84        
+	A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who
+	must go on a quest and rescue a princess for the lord in order to get his land
+	back.
+	[[file:./animations/Shrek.jpg]]
+* [ ] 47. [[/title/tt0298148/?ref_=ttls_li_tt][Shrek 2]] 7.2	:Animation:Adventure:Comedy:
+	(2004)	93 min	75        
+	Princess Fiona's (Cameron Diaz's) parents invite her and Shrek (Mike Myers)
+	to dinner to celebrate her marriage. If only they knew the newlyweds were both
+	ogres.
+	[[file:./animations/Shrek 2.jpg]]
+* [ ] 48. [[/title/tt0808506/?ref_=ttls_li_tt][The Girl Who Leapt Through Time]] 7.8	:Animation:Adventure:Comedy:
+	(2006)	98 min	N/A
+	A high-school girl named Makoto acquires the power to travel back in time,
+	and decides to use it for her own personal benefits. Little does she know that
+	she is affecting the lives of others just as much as she is her own.
+	[[file:./animations/The Girl Who Leapt Through Time.jpg]]
+* [ ] 49. [[/title/tt6900448/?ref_=ttls_li_tt][Mirai]] 7	:Animation:Adventure:Drama:
+	(2018)	98 min	81        
+	A young boy encounters a magical garden which enables him to travel through
+	time and meet his relatives from different eras, with guidance by his younger
+	sister from the future.
+	[[file:./animations/Mirai.jpg]]
+* [ ] 50. [[/title/tt0983213/?ref_=ttls_li_tt][5 Centimeters Per Second]] 7.6	:Animation:Drama:Family:
+	(2007)	63 min	N/A
+	Told in three interconnected segments, we follow a young man named Takaki
+	through his life as cruel winters, cold technology, and finally, adult
+	obligations and responsibility converge to test the delicate petals of love.
+	[[file:./animations/5 Centimeters Per Second.jpg]]
+* [ ] 51. [[/title/tt1816518/?ref_=ttls_li_tt][Ernest & Celestine]] 7.9	:Animation:Adventure:Comedy:
+	(2012)	80 min	86        
+	The story of an unlikely friendship between a bear, Ernest, and a young
+	mouse named Celestine.
+	[[file:./animations/Ernest & Celestine.jpg]]
+* [ ] 52. [[/title/tt6284064/?ref_=ttls_li_tt][The Bears' Famous Invasion of Sicily]] 7.6	:Animation:Adventure:Family:
+	(2019)	82 min	N/A
+	To rescue his missing son, Léonce the King of Bears, invade the land of men
+	with the help of his clan.
+	[[file:./animations/The Bears' Famous Invasion of Sicily.jpg]]
+* [ ] 53. [[/title/tt2013293/?ref_=ttls_li_tt][The Wind Rises]] 7.8	:Animation:Biography:Drama:
+	(2013)	126 min	83        
+	A look at the life of Jiro Horikoshi, the man who designed Japanese fighter
+	planes during World War II.
+	[[file:./animations/The Wind Rises.jpg]]
+* [ ] 54. [[/title/tt0398286/?ref_=ttls_li_tt][Tangled]] 7.7	:Animation:Adventure:Comedy:
+	(2010)	100 min	71        
+	The magically long-haired Rapunzel has spent her entire life in a tower,
+	but now that a runaway thief has stumbled upon her, she is about to discover the
+	world for the first time, and who she really is.
+	[[file:./animations/Tangled.jpg]]
+* [ ] 55. [[/title/tt2294629/?ref_=ttls_li_tt][Frozen]] 7.5	:Animation:Adventure:Comedy:
+	(I) (2013)	102 min	74        
+	When the newly crowned Queen Elsa accidentally uses her power to turn
+	things into ice to curse her home in infinite winter, her sister Anna teams up
+	with a mountain man, his playful reindeer, and a snowman to change the weather
+	condition.
+	[[file:./animations/Frozen.jpg]]
+* [ ] 56. [[/title/tt4520988/?ref_=ttls_li_tt][Frozen II]] 7	:Animation:Adventure:Comedy:
+	(2019)	103 min	64        
+	Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an
+	ancient, autumn-bound forest of an enchanted land. They set out to find the
+	origin of Elsa's powers in order to save their kingdom.
+	[[file:./animations/Frozen II.jpg]]
+* [ ] 57. [[/title/tt0286244/?ref_=ttls_li_tt][The Triplets of Belleville]] 7.8	:Animation:Comedy:Drama:
+	(2003)	78 min	91        
+	When her grandson is kidnapped during the Tour de France, Madame Souza and
+	her beloved pooch Bruno team up with the Belleville Sisters--an aged song-and-
+	dance team from the days of Fred Astaire--to rescue him.
+	[[file:./animations/The Triplets of Belleville.jpg]]
+* [ ] 58. [[/title/tt4769824/?ref_=ttls_li_tt][In This Corner of the World]] 7.8	:Animation:Drama:Family:
+	(2016)	129 min	73        
+	Set in Hiroshima during World War II, an eighteen-year-old girl gets
+	married and now has to prepare food for her family despite the rationing and
+	lack of supplies. As she struggles with the...                See full summary »
+	[[file:./animations/In This Corner of the World.jpg]]
+* [ ] 59. [[/title/tt3422078/?ref_=ttls_li_tt][April and the Extraordinary World]] 7.3	:Animation:Adventure:Comedy:
+	(2015)	105 min	85        
+	It's 1941 but France is trapped in the nineteenth century, governed by
+	steam and Napoleon V, where scientists vanish mysteriously. Avril (Marion
+	Cotillard), a teenage girl, goes in search of her missing scientist parents.
+	[[file:./animations/April and the Extraordinary World.jpg]]
+* [ ] 60. [[/title/tt2452042/?ref_=ttls_li_tt][The Peanuts Movie]] 7.1	:Animation:Comedy:Drama:
+	(2015)	88 min	67        
+	Snoopy embarks upon his greatest mission as he and his team take to the
+	skies to pursue their archnemesis, while his best pal Charlie Brown begins his
+	own epic quest back home to win the love of his life.
+	[[file:./animations/The Peanuts Movie.jpg]]
+* [ ] 61. [[/title/tt1490017/?ref_=ttls_li_tt][The Lego Movie]] 7.8	:Animation:Action:Adventure:
+	(2014)	100 min	83        
+	An ordinary LEGO construction worker, thought to be the prophesied as
+	"special", is recruited to join a quest to stop an evil tyrant from gluing the
+	LEGO universe into eternal stasis.
+	[[file:./animations/The Lego Movie.jpg]]
+* [ ] 62. [[/title/tt4116284/?ref_=ttls_li_tt][The Lego Batman Movie]] 7.3	:Animation:Action:Comedy:
+	(2017)	104 min	75        
+	A cooler-than-ever Bruce Wayne must deal with the usual suspects as they
+	plan to rule Gotham City, while discovering that he has accidentally adopted a
+	teenage orphan who wishes to become his sidekick.
+	[[file:./animations/The Lego Batman Movie.jpg]]
+* [ ] 63. [[/title/tt2321405/?ref_=ttls_li_tt][My Life as a Zucchini]] 7.8	:Animation:Comedy:Drama:
+	(2016)	70 min	85        
+	After losing his mother, a young boy is sent to a foster home with other
+	orphans his age where he begins to learn the meaning of trust and true love.
+	[[file:./animations/My Life as a Zucchini.jpg]]
+* [ ] 64. [[/title/tt2961890/?ref_=ttls_li_tt][Rocks in My Pockets]] 7.7	:Animation:Comedy:Drama:
+	(2014)	88 min	78        
+	Signe Baumane and five women in her family battle with depression and
+	madness.
+	[[file:./animations/Rocks in My Pockets.jpg]]
+* [ ] 65. [[/title/tt0243017/?ref_=ttls_li_tt][Waking Life]] 7.8	:Animation:Drama:Fantasy:
+	(2001)	99 min	82        
+	A man shuffles through a dream meeting various people and discussing the
+	meanings and purposes of the universe.
+	[[file:./animations/Waking Life.jpg]]
+* [ ] 66. [[/title/tt3666024/?ref_=ttls_li_tt][The Red Turtle]] 7.5	:Animation:Family:Fantasy:
+	(2016)	80 min	86        
+	A man is shipwrecked on a deserted island and encounters a red turtle,
+	which changes his life.
+	[[file:./animations/The Red Turtle.jpg]]
+* [ ] 67. [[/title/tt2990836/?ref_=ttls_li_tt][L'arte della felicità]] 7.4	:Animation:Drama:
+	(2013)	82 min	N/A
+	A taxi driver who lives in Napoli spend his time on his uncle's car
+	thinking about happiness. His former brother took a road for happiness
+	practicing Buddhism while he is always sad and ...                See full
+	summary »
+	[[file:./animations/L'arte della felicità.jpg]]
+* [ ] 68. [[/title/tt3398268/?ref_=ttls_li_tt][When Marnie Was There]] 7.7	:Animation:Drama:Family:
+	(2014)	103 min	72        
+	Due to 12 y.o. Anna's asthma, she's sent to stay with relatives of her
+	guardian in the Japanese countryside. She likes to be alone, sketching. She
+	befriends Marnie. Who is the mysterious, blonde Marnie.
+	[[file:./animations/When Marnie Was There.jpg]]
+* [ ] 69. [[/title/tt1772341/?ref_=ttls_li_tt][Wreck-It Ralph]] 7.7	:Animation:Adventure:Comedy:
+	(2012)	101 min	72        
+	A video game villain wants to be a hero and sets out to fulfill his dream,
+	but his quest brings havoc to the whole arcade where he lives.
+	[[file:./animations/Wreck-It Ralph.jpg]]
+* [ ] 70. [[/title/tt5848272/?ref_=ttls_li_tt][Ralph Breaks the Internet]] 7.1	:Animation:Adventure:Comedy:
+	(2018)	112 min	71        
+	Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now
+	friends, discover a wi-fi router in their arcade, leading them into a new
+	adventure.
+	[[file:./animations/Ralph Breaks the Internet.jpg]]
+* [ ] 71. [[/title/tt0851578/?ref_=ttls_li_tt][Paprika]] 7.7	:Animation:Drama:Fantasy:
+	(2006)	90 min	81        
+	When a machine that allows therapists to enter their patients' dreams is
+	stolen, all Hell breaks loose. Only a young female therapist, Paprika, can stop
+	it.
+	[[file:./animations/Paprika.jpg]]
+* [ ] 72. [[/title/tt1172203/?ref_=ttls_li_tt][Sita Sings the Blues]] 7.6	:Animation:Comedy:Fantasy:
+	(2008)	82 min	93        
+	An animated version of the epic Indian tale of Ramayana set to the 1920s
+	jazz vocals of Annette Hanshaw.
+	[[file:./animations/Sita Sings the Blues.jpg]]
+* [ ] 73. [[/title/tt1323594/?ref_=ttls_li_tt][Despicable Me]] 7.6	:Animation:Comedy:Family:
+	(2010)	95 min	72        
+	When a criminal mastermind uses a trio of orphan girls as pawns for a grand
+	scheme, he finds their love is profoundly changing him for the better.
+	[[file:./animations/Despicable Me.jpg]]
+* [ ] 74. [[/title/tt1690953/?ref_=ttls_li_tt][Despicable Me 2]] 7.3	:Animation:Adventure:Comedy:
+	(2013)	98 min	62        
+	When Gru, the world's most super-bad turned super-dad has been recruited by
+	a team of officials to stop lethal muscle and a host of Gru's own, He has to
+	fight back with new gadgetry, cars, and more minion madness.
+	[[file:./animations/Despicable Me 2.jpg]]
+* [ ] 75. [[/title/tt0876563/?ref_=ttls_li_tt][Ponyo]] 7.7	:Animation:Adventure:Comedy:
+	(2008)	101 min	86        
+	A five-year-old boy develops a relationship with Ponyo, a young goldfish
+	princess who longs to become a human after falling in love with him.
+	[[file:./animations/Ponyo.jpg]]
+* [ ] 76. [[/title/tt0327597/?ref_=ttls_li_tt][Coraline]] 7.7	:Animation:Drama:Family:
+	(2009)	100 min	80        
+	An adventurous 11-year-old girl finds another world that is a strangely
+	idealized version of her frustrating home, but it has sinister secrets.
+	[[file:./animations/Coraline.jpg]]
+* [ ] 77. [[/title/tt5698496/?ref_=ttls_li_tt][The Girl Without Hands]] 6.9	:Animation:Drama:Fantasy:
+	(2016)	76 min	82        
+	In hard times, a miller sells his daughter to the Devil. Protected by her
+	purity, she escapes but is deprived of her hands. Walking away from her family,
+	she encounters the goddess of water...                See full summary »
+	[[file:./animations/The Girl Without Hands.jpg]]
+* [ ] 78. [[/title/tt0229664/?ref_=ttls_li_tt][Princes and Princesses]] 7.6	:Animation:Comedy:Family:
+	(2000)	70 min	N/A
+	Six old-style funny silhouetted fairy tales for not so-old-style people.
+	[[file:./animations/Princes and Princesses.jpg]]
+* [ ] 79. [[/title/tt1568921/?ref_=ttls_li_tt][The Secret World of Arrietty]] 7.6	:Animation:Adventure:Family:
+	(2010)	94 min	80        
+	The Clock family are four-inch-tall people who live anonymously in another
+	family's residence, borrowing simple items to make their home. Life changes for
+	the Clocks when their teenage daughter, Arrietty, is discovered.
+	[[file:./animations/The Secret World of Arrietty.jpg]]
+* [ ] 80. [[/title/tt3183630/?ref_=ttls_li_tt][Boy and the World]] 7.6	:Animation:Adventure:Family:
+	(2013)	80 min	80        
+	A little boy goes on an adventurous quest in search of his father.
+	[[file:./animations/Boy and the World.jpg]]
+* [ ] 81. [[/title/tt5311514/?ref_=ttls_li_tt][Your Name.]] 8.4	:Animation:Drama:Fantasy:
+	(2016)	106 min	79        
+	Two strangers find themselves linked in a bizarre way. When a connection
+	forms, will distance be the only thing to keep them apart?
+	[[file:./animations/Your Name..jpg]]
+* [ ] 82. [[/title/tt5323662/?ref_=ttls_li_tt][A Silent Voice: The Movie]] 8.2	:Animation:Drama:Family:
+	(2016)	130 min	78        
+	A young man is ostracized by his classmates after he bullies a deaf girl to
+	the point where she moves away. Years later, he sets off on a path for
+	redemption.
+	[[file:./animations/A Silent Voice: The Movie.jpg]]
+* [ ] 83. [[/title/tt5004766/?ref_=ttls_li_tt][Birdboy: The Forgotten Children]] 7.3	:Animation:Drama:Horror:
+	(2015)	76 min	76        
+	Three children decide to leave their homes looking for a better life.
+	[[file:./animations/Birdboy: The Forgotten Children.jpg]]
+* [ ] 84. [[/title/tt0485601/?ref_=ttls_li_tt][The Secret of Kells]] 7.6	:Animation:Adventure:Family:
+	(2009)	75 min	81        
+	A young boy in a remote medieval outpost under siege from barbarian raids
+	is beckoned to adventure when a celebrated master illuminator arrives with an
+	ancient book, brimming with secret wisdom and powers.
+	[[file:./animations/The Secret of Kells.jpg]]
+* [ ] 85. [[/title/tt6451304/?ref_=ttls_li_tt][Have a Nice Day]] 6.5	:Animation:Comedy:Crime:
+	(2017)	77 min	77        
+	A city in southern China and a bag containing a million yuan draw several
+	people from diverse backgrounds with different personal motives into a bloody
+	conflict.
+	[[file:./animations/Have a Nice Day.jpg]]
+* [ ] 86. [[/title/tt1677561/?ref_=ttls_li_tt][Colourful]] 7.4	:Animation:Drama:Fantasy:
+	(2010)	126 min	N/A
+	A sinful spirit is granted the opportunity to prove worthy for rebirth,
+	inhabiting the body of a student who killed himself.
+	[[file:./animations/Colourful.jpg]]
+* [ ] 87. [[/title/tt2262345/?ref_=ttls_li_tt][Long Way North]] 7.3	:Animation:Adventure:Drama:
+	(2015)	81 min	70        
+	In 1882, a young Russian aristocrat goes on an epic adventure to find out
+	what happened to her grandfather and save her family's reputation.
+	[[file:./animations/Long Way North.jpg]]
+* [ ] 88. [[/title/tt1433540/?ref_=ttls_li_tt][A Town Called Panic]] 7.5	:Animation:Adventure:Comedy:
+	(2009)	75 min	70        
+	Cowboy and Indian's only wish was to come up with a brilliant idea for Mr
+	Horse's birthday, but when their plan ends up in utter disaster, they'll need to
+	travel the world and back to make things right again.
+	[[file:./animations/A Town Called Panic.jpg]]
+* [ ] 89. [[/title/tt0345950/?ref_=ttls_li_tt][The SpongeBob SquarePants Movie]] 7	:Animation:Adventure:Comedy:
+	(2004)	87 min	66        
+	SpongeBob SquarePants takes leave from the town of Bikini Bottom in order
+	to track down King Neptune's stolen crown.
+	[[file:./animations/The SpongeBob SquarePants Movie.jpg]]
+* [ ] 90. [[/title/tt0441773/?ref_=ttls_li_tt][Kung Fu Panda]] 7.5	:Animation:Action:Adventure:
+	(2008)	92 min	73        
+	The Dragon Warrior has to clash against the savage Tai Lung as China's fate
+	hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken
+	to be bestowed upon an obese panda who is a novice in martial arts.
+	[[file:./animations/Kung Fu Panda.jpg]]
+* [ ] 91. [[/title/tt1302011/?ref_=ttls_li_tt][Kung Fu Panda 2]] 7.2	:Animation:Action:Adventure:
+	(2011)	90 min	67        
+	Po and his friends fight to stop a peacock villain from conquering China
+	with a deadly new weapon, but first the Dragon Warrior must come to terms with
+	his past.
+	[[file:./animations/Kung Fu Panda 2.jpg]]
+* [ ] 92. [[/title/tt2267968/?ref_=ttls_li_tt][Kung Fu Panda 3]] 7.1	:Animation:Action:Adventure:
+	(2016)	95 min	66        
+	Continuing his "legendary adventures of awesomeness", Po must face two
+	hugely epic, but different threats: one supernatural and the other a little
+	closer to home.
+	[[file:./animations/Kung Fu Panda 3.jpg]]
+* [ ] 93. [[/title/tt1407052/?ref_=ttls_li_tt][Wrinkles]] 7.6	:Animation:Drama:
+	(2011)	89 min	81        
+	An astonishing cocktail of friendship, resistance and life set among the
+	unexpected landscape of an elderly care facility.
+	[[file:./animations/Wrinkles.jpg]]
+* [ ] 94. [[/title/tt5894778/?ref_=ttls_li_tt][Louise by the Shore]] 7.1	:Animation:Drama:
+	(2016)	75 min	N/A
+	Louise, an old lady, finds herself stranded in a seaside resort after the
+	last train of the holiday season has left the station. But far from panicking,
+	the fearless Louise decides to stay,...                See full summary »
+	[[file:./animations/Louise by the Shore.jpg]]
+* [ ] 95. [[/title/tt0268380/?ref_=ttls_li_tt][Ice Age]] 7.5	:Animation:Adventure:Comedy:
+	(2002)	81 min	60        
+	Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth
+	find a lost human infant, and they try to return him to his tribe.
+	[[file:./animations/Ice Age.jpg]]
+* [ ] 96. [[/title/tt0312004/?ref_=ttls_li_tt][Wallace & Gromit: The Curse of the Were-Rabbit]] 7.4	:Animation:Adventure:Comedy:
+	(2005)	85 min	87        
+	Wallace and his loyal dog, Gromit, set out to discover the mystery behind
+	the garden sabotage that plagues their village and threatens the annual giant
+	vegetable growing contest.
+	[[file:./animations/Wallace & Gromit: The Curse of the Were-Rabbit.jpg]]
+* [ ] 97. [[/title/tt2872750/?ref_=ttls_li_tt][Shaun the Sheep Movie]] 7.3	:Animation:Adventure:Comedy:
+	(2015)	85 min	81        
+	When Shaun decides to take the day off and have some fun, he gets a little
+	more action than he bargained for. A mix up with the Farmer, a caravan and a
+	very steep hill lead them all to the Big City and it's up to Shaun and the flock
+	to return everyone safely to the green grass of home.
+	[[file:./animations/Shaun the Sheep Movie.jpg]]
+* [ ] 98. [[/title/tt6193408/?ref_=ttls_li_tt][A Shaun the Sheep Movie: Farmageddon]] 6.9	:Animation:Adventure:Comedy:
+	(2019)	86 min	79        
+	When an alien with amazing powers crash-lands near Mossy Bottom Farm, Shaun
+	the Sheep goes on a mission to shepherd the intergalactic visitor home before a
+	sinister organization can capture her.
+	[[file:./animations/A Shaun the Sheep Movie: Farmageddon.jpg]]
+* [ ] 99. [[/title/tt0775489/?ref_=ttls_li_tt][The Illusionist]] 7.5	:Animation:Drama:Family:
+	(2010)	80 min	82        
+	A French illusionist finds himself out of work and travels to Scotland,
+	where he meets a young woman. Their ensuing adventure changes both their lives
+	forever.
+	[[file:./animations/The Illusionist.jpg]]
+* [ ] 100. [[/title/tt1483797/?ref_=ttls_li_tt][Redline]] 7.5	:Animation:Action:Romance:
+	(2009)	102 min	N/A
+	A story about the most popular racing event in the galaxy, the Redline, and
+	the various racers who compete in it.
+	[[file:./animations/Redline.jpg]]
