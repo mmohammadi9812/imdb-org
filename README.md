@@ -1,8 +1,13 @@
 # IMDB Lists to org-mode check lists
 
-This is a python script which reads imdb lists in `lists.yaml` and
+This is a python script which reads imdb lists in `lists.yaml` and generates `list.org` for each list.
 
-generates `list.org` for each list.
+## Why
+Well, I wanted to have a list of movies, to know which one I've seen and which one has not been seen yet.
+
+But being on imdb site, always, was something I can't do! and I love org-mode! so I thought why not scrap it to an org file?!
+
+And so, here we are!
 
 ## Installation
 
