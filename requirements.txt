@@ -3,7 +3,7 @@ certifi==2019.11.28
 chardet==3.0.4
 helium==3.0.1
 idna==2.9
-PyYAML==5.3
+PyYAML==5.4
 requests==2.23.0
 selenium==3.141.0
 soupsieve==2.0
