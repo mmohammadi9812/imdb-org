@@ -142,8 +142,4 @@ cython_debug/
 media
 static
 
-*
-
-! *.py
-! *.org
-! .gitignore
+*.org

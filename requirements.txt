@@ -1,10 +1,6 @@
-beautifulsoup4==4.8.2
-certifi==2019.11.28
-chardet==3.0.4
-helium==3.0.1
-idna==2.9
-PyYAML==5.4
-requests==2.23.0
-selenium==3.141.0
-soupsieve==2.0
-urllib3==1.26.5
+beautifulsoup4
+click
+cinemagoer @ git+https://github.com/cinemagoer/cinemagoer.git@c9761b34eed35f10dae0111549172d31854b90f9
+lxml
+orgparse
+requests
