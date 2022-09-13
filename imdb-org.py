@@ -19,18 +19,24 @@ import json
 import logging
 import os
 import re
+import shutil
 import click
 import imdb
 import requests
+import sys
 import typing as t
 
 from bs4 import BeautifulSoup as bs
 from dataclasses import dataclass
 from pathlib import Path
 from textwrap import wrap
+from urllib.parse import urlparse
 
 NO_COLOR = os.getenv("NO_COLOR") is not None
 WRAP_WIDTH = 80
+
+
+tqdm = __import__('tqdm', globals(), locals(), ['tqdm']).tqdm if sys.stderr.isatty() else lambda _: _
 
 
 @dataclass
@@ -46,6 +52,7 @@ class Movie:
     votes: int
     plot: str
     url: str
+    image: str
 
 
 def getItem(url: str):
@@ -63,6 +70,7 @@ def getItem(url: str):
         if re.match(r"^\d+$", dt["runtimes"][0])
         else int(dt["runtimes"][0].split(":")[-1])
     )
+    image = m.get_fullsizeURL()
     rating = dt["rating"]
     votes = dt["votes"]
     plot = dt["plot outline"] or "\n".join(dt["plot"]) or ""
@@ -78,6 +86,7 @@ def getItem(url: str):
         votes=votes,
         plot=plot,
         url=url,
+        image=image,
     )
 
 
@@ -88,19 +97,32 @@ def stylizeMovie(m: Movie) -> str:
     return r
 
 
-def organizeItem(x: int, m: Movie) -> str:
-    plot = "\n\t".join([el.strip() for el in wrap(m.plot, width=WRAP_WIDTH)])
-    r = f"""{x}) [[{m.url}][{m.title}]] {m.rating} {f":{':'.join(m.genres)}:"}
+def organizeItem(imagePath: str, m: Movie) -> str:
+    plot = "\n\t\t".join([el.strip() for el in wrap(m.plot, width=WRAP_WIDTH)])
+    r = f"""    - [ ] [[{m.url}][{m.title}]] {m.rating} {f":{':'.join(m.genres)}:"}
     {plot}
+
+    [[file:{imagePath}]]
 """
     return r
+
+
+def downloadImage(dir: str, m: Movie) -> None:
+    path = Path(dir) / f'{m.title}.jpg'
+    r = requests.get(m.image, stream=True)
+    r.raise_for_status()
+    with open(path.__str__(), 'wb') as f:
+        r.raw.decode_content = True
+        shutil.copyfileobj(r.raw, f)
+
+    del r
 
 
 @click.command()
 @click.option(
     "-l",
     "--name",
-    "list",
+    "link",
     required=True,
     type=str,
     help="id of the list to be fetched, it must start with ls",
@@ -113,18 +135,23 @@ def organizeItem(x: int, m: Movie) -> str:
     help="orgfile, to which list will be saved",
 )
 @click.option("--debug/--no-debug")
-def getList(list: str, file: t.Optional[click.Path], debug: bool):
+def doMain(link: str, file: t.Optional[click.Path], debug: bool):
     if debug:
         logging.basicConfig(filename=Path(__file__).stem + ".log", level=logging.DEBUG)
     else:
         logging.basicConfig(level=logging.WARN)
     logger = logging.getLogger(__name__)
 
-    if list.startswith("ls"):
-        list = "https://www.imdb.com/list/" + list
-    logger.debug(f"getting {list}")
-    resp = requests.get(list)
-    resp.raise_for_status()  # TODO: should this be here?
+    if link.startswith("ls"):
+        link = "https://www.imdb.com/list/" + link
+    
+    host = urlparse(link).netloc
+    if host is None or "imdb.com" not in host:
+        raise ValueError(f"[-] invalid link {link}")
+
+    logger.debug(f"getting {link}")
+    resp = requests.get(link)
+    resp.raise_for_status()
     logger.debug("parsing list elements")
     soup = bs(resp.text, features="lxml")
     jsonel = soup.find(type="application/ld+json").text
@@ -133,6 +160,10 @@ def getList(list: str, file: t.Optional[click.Path], debug: bool):
     logger.debug(f"#{len(items)} items found on the list")
     if file:
         click.open_file(file, "w").close()
+
+        imagesFolder = Path(Path(file).name).stem
+        Path(imagesFolder).mkdir(exist_ok=True)
+
         with click.open_file(file, "w") as f:
             f.write(
                 f"""
@@ -140,21 +171,23 @@ def getList(list: str, file: t.Optional[click.Path], debug: bool):
 #+AUTHOR: Mohammd Mohammdi
 #+STARTUP: inlineimages
 
-* {dt["name"]}
+* TODO {dt["name"]}
 """
             )
     else:
         click.echo(click.style(dt["name"], fg="yellow"), color=(not NO_COLOR))
-    for i, item in enumerate(items):
+    for item in tqdm(items):
         logger.debug(f'fetching {item["url"]}')
         full_item = getItem(item["url"])
         if file:
+            imagePath = Path(imagesFolder) / f'{full_item.title}.jpg'
             with click.open_file(file, "a") as f:
-                f.write(organizeItem(i, full_item))
+                f.write(organizeItem('./' + imagePath.__str__(), full_item))
+            downloadImage(imagesFolder, full_item)
 
         else:
             click.echo(stylizeMovie(full_item), color=(not NO_COLOR))
 
 
 if __name__ == "__main__":
-    getList()
+    doMain()

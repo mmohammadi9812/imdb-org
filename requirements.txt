@@ -4,3 +4,4 @@ cinemagoer @ git+https://github.com/cinemagoer/cinemagoer.git@c9761b34eed35f10da
 lxml
 orgparse
 requests
+tqdm
